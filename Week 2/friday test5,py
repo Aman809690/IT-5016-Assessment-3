@@ -1,0 +1,6 @@
+"""
+Author= Aman
+"""
+text="....aman....uppal....aman...."
+r=text.strip('.aman')
+print(r)
